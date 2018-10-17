@@ -27,13 +27,6 @@ let words = ["You", "sir", "have", "lost", "The", "Game", "once", "again"];
 words[1] = "miss";
 ```
 
-BLOCK 04 (MODIFYING ARRAY VALUES)
-
-```javascript
-let words = ["You", "sir", "have", "lost", "The", "Game", "once", "again"];
-words[1] = "miss";
-```
-
 ---
 
 ### Code Blocks (Loops)

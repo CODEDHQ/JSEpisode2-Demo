@@ -35,14 +35,14 @@ BLOCK 01 (CONSOLE LOG ARRAY)
 
 ```javascript
 let primes = [1, 3, 5, 7, 11, 13, 17, 23];
-console.log(primes); // looks bad
+console.log(primes); // output looks bad
 ```
 
 BLOCK 02 (CONSOLE LOG ARRAY ELEMENTS)
 
 ```javascript
 let primes = [1, 3, 5, 7, 11, 13, 17, 23];
-console.log(primes[0]); // looks better, but repeated code is bad.
+console.log(primes[0]); // output looks better, but repeated code is bad.
 console.log(primes[1]);
 console.log(primes[2]);
 console.log(primes[3]);

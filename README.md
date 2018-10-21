@@ -9,13 +9,13 @@
 BLOCK 01 (DEFINING ARRAY)
 
 ```javascript
-let words = ["You", "sir", "have", "lost", "The", "Game", "once", "again"];
+let words = ["stuff", "another", "laugh", "live", "love", "like", "long"];
 ```
 
 BLOCK 02 (ACCESSING ARRAY VALUES)
 
 ```javascript
-let words = ["You", "sir", "have", "lost", "The", "Game", "once", "again"];
+let words = ["stuff", "another", "laugh", "live", "love", "like", "long"];
 console.log(words[4]);
 console.log(words[5]);
 ```
@@ -23,7 +23,7 @@ console.log(words[5]);
 BLOCK 03 (MODIFYING ARRAY VALUES)
 
 ```javascript
-let words = ["You", "sir", "have", "lost", "The", "Game", "once", "again"];
+let words = ["stuff", "another", "laugh", "live", "love", "like", "long"];
 words[1] = "miss";
 ```
 

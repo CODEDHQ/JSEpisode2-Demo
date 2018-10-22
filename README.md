@@ -53,7 +53,16 @@ console.log(lastInstructor);
 
 ### Code Blocks (Loops)
 
-BLOCK 01 (SAY HELLO)
+BLOCK 01 (WHILE LOOP - NO ARRAY)
+
+```javascript
+let userInput = "";
+while (userInput !== "supersecretpassword") {
+  userInput = prompt("What's the password?");
+}
+```
+
+BLOCK 02 (SAY HELLO)
 
 ```javascript
 console.log(`Hello, I'm ${instructors[0]}`);
@@ -64,7 +73,7 @@ console.log(`Hello, I'm ${instructors[4]}`);
 console.log(`Hello, I'm ${instructors[5]}`);
 ```
 
-BLOCK 02 (WHILE LOOP)
+BLOCK 03 (WHILE LOOP - WITH ARRAY)
 
 ```javascript
 let i = 0;
@@ -74,7 +83,7 @@ while (i < instructors.length) {
 }
 ```
 
-BLOCK 03 (FOR LOOP EQUIVALENT)
+BLOCK 04 (FOR LOOP EQUIVALENT)
 
 ```javascript
 for (let i = 0; i < instructors.length; i++) {

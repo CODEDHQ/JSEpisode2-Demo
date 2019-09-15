@@ -4,6 +4,8 @@
 
 ---
 
+All demos should be done in `script.js` file of an [`HTML` repl](https://repl.it/languages/html)
+
 ### Code Blocks (Arrays)
 
 BLOCK 01 (DEFINING ARRAY)

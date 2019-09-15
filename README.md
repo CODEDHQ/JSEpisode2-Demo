@@ -9,8 +9,10 @@
 BLOCK 01 (DEFINING ARRAY)
 
 ```javascript
-let instructors = ["Asis", "Hamsa", "Fawas", "Huss", "Lailz", "Mshary"];
+const instructors = ["Asis", "Hamsa", "Fawas", "Huss", "Lailz", "Mshary"];
 ```
+
+(explain the real meaning of `const`)
 
 BLOCK 02 (ACCESSING ARRAY VALUES)
 
@@ -45,7 +47,7 @@ instructors.push("Laila B");
 BLOCK 03 (POP)
 
 ```javascript
-let lastInstructor = instructors.pop();
+const lastInstructor = instructors.pop();
 console.log(lastInstructor);
 ```
 

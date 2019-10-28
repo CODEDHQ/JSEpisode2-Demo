@@ -6,6 +6,14 @@
 
 All demos should be done in `script.js` file of an [`HTML` repl](https://repl.it/languages/html)
 
+---
+
+# References
+
+- `const` vs `let` vs `var` in JavaScript: https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+
+---
+
 ### Code Blocks (Arrays)
 
 BLOCK 01 (DEFINING ARRAY)

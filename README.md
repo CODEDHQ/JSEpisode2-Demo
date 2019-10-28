@@ -27,7 +27,7 @@ console.log(instructors[6]);
 BLOCK 03 (MODIFYING ARRAY VALUES)
 
 ```javascript
-instrutors[5] = "Mishmish";
+instructors[5] = "Mishmish";
 ```
 
 ---
